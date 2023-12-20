@@ -1,3 +1,3 @@
-# studious-succotash
+# studious-succotash CF
 
-This is a collection of what I've done.
+This is a collection of what I've done in CodeForces.
