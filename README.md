@@ -8,7 +8,7 @@ This is a collection of what I've done in LeetCode.
 2870 - Minimum Number of Operations to Make Array Empty   
 300 - Longest Increasing Subsequence  
 1235 - Maximum Profit in Job Scheduling  
-938 - Range Sum of BST
+938 - Range Sum of BST  
 872 - Leaf-Similar Trees
 
 
