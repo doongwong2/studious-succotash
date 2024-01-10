@@ -9,7 +9,8 @@ This is a collection of what I've done in LeetCode.
 300 - Longest Increasing Subsequence  
 1235 - Maximum Profit in Job Scheduling  
 938 - Range Sum of BST  
-872 - Leaf-Similar Trees
+872 - Leaf-Similar Trees  
+2385 - Amount of Time for Binary Tree to Be Infected
 
 
 
