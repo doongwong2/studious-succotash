@@ -16,7 +16,8 @@ This is a collection of what I've done in LeetCode.
 1347 - Minimum Number of Steps to Make Two Strings Anagram  
 1657 - Determine if Two Strings Are Close  
 2225 - Find Players With Zero or One Losses  
-380 - Insert Delete GetRandom O(1)
+380 - Insert Delete GetRandom O(1)  
+1207 - Unique Number of Occurrences
 
 
 
