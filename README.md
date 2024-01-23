@@ -22,7 +22,8 @@ This is a collection of what I've done in LeetCode.
 931 - Minimum Falling Path Sum  
 907 - Sum of Subarray Minimums  
 198 - House Robber  
-645 - Set Mismatch
+645 - Set Mismatch  
+1239 - Maximum Length of a Concatenated String with Unique Characters
 
 
 
