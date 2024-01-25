@@ -24,7 +24,8 @@ This is a collection of what I've done in LeetCode.
 198 - House Robber  
 645 - Set Mismatch  
 1239 - Maximum Length of a Concatenated String with Unique Characters  
-1457 - Pseudo-Palindromic Paths in a Binary Tree
+1457 - Pseudo-Palindromic Paths in a Binary Tree  
+1143 - Longest Common Subsequence
 
 
 
