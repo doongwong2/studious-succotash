@@ -25,7 +25,8 @@ This is a collection of what I've done in LeetCode.
 645 - Set Mismatch  
 1239 - Maximum Length of a Concatenated String with Unique Characters  
 1457 - Pseudo-Palindromic Paths in a Binary Tree  
-1143 - Longest Common Subsequence
+1143 - Longest Common Subsequence  
+576 - Out of Boundary Paths
 
 
 
