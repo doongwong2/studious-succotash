@@ -28,7 +28,8 @@ This is a collection of what I've done in LeetCode.
 1143 - Longest Common Subsequence  
 576 - Out of Boundary Paths  
 629 - K Inverse Pairs Array  
-1074 - Number of Submatrices That Sum to Target
+1074 - Number of Submatrices That Sum to Target  
+232 - Implement Queue using Stacks
 
 
 
