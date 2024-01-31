@@ -30,7 +30,8 @@ This is a collection of what I've done in LeetCode.
 629 - K Inverse Pairs Array  
 1074 - Number of Submatrices That Sum to Target  
 232 - Implement Queue using Stacks  
-150 - Evaluate Reverse Polish Notation
+150 - Evaluate Reverse Polish Notation  
+739 - Daily Temperatures
 
 
 
