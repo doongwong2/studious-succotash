@@ -1,7 +1,8 @@
 # studious-succotash
 
-This is a collection of what I've done in LeetCode, January 2024.
+This is a collection of what I've done in LeetCode.
 
+January 2024
 1897 - Redistribute Characters to Make All Strings Equal  
 2610 - Convert an Array Into a 2D Array With Conditions  
 2125 - Number of Laser Beams in a Bank  
