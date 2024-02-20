@@ -39,7 +39,8 @@ February 2024
 2971 - Find Polygon With the Largest Perimeter  
 1481 - Least Number of Unique Integers after K Removals  
 2402 - Meeting Rooms III  
-231 - Power of Two
+231 - Power of Two  
+268 - Missing Number
 
 
 
