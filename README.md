@@ -41,7 +41,8 @@ February 2024
 2402 - Meeting Rooms III  
 231 - Power of Two  
 268 - Missing Number  
-201 - Bitwise AND of Numbers Range
+201 - Bitwise AND of Numbers Range  
+997 - Find the Town Judge
 
 
 
