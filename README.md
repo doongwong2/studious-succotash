@@ -42,8 +42,8 @@ February 2024
 231 - Power of Two  
 268 - Missing Number  
 201 - Bitwise AND of Numbers Range  
-997 - Find the Town Judge
-
+997 - Find the Town Judge  
+787 - Cheapest Flights Within K Stops
 
 
 
