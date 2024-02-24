@@ -43,7 +43,8 @@ February 2024
 268 - Missing Number  
 201 - Bitwise AND of Numbers Range  
 997 - Find the Town Judge  
-787 - Cheapest Flights Within K Stops
+787 - Cheapest Flights Within K Stops  
+2092 - Find All People With Secret
 
 
 
