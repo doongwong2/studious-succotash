@@ -44,7 +44,8 @@ February 2024
 201 - Bitwise AND of Numbers Range  
 997 - Find the Town Judge  
 787 - Cheapest Flights Within K Stops  
-2092 - Find All People With Secret
+2092 - Find All People With Secret  
+2709 - Greatest Common Divisor Traversal
 
 
 
