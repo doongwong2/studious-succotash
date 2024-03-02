@@ -52,7 +52,8 @@ February 2024
 1609 - Even Odd Tree    
 
 March 2024
-2864 - Maximum Odd Binary Number
+2864 - Maximum Odd Binary Number  
+977 - Squares of a Sorted Array
 
 
 
