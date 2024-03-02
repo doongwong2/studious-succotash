@@ -2,7 +2,7 @@
 
 This is a collection of what I've done in LeetCode.
 
-January 2024
+January 2024  
 1897 - Redistribute Characters to Make All Strings Equal  
 2610 - Convert an Array Into a 2D Array With Conditions  
 2125 - Number of Laser Beams in a Bank  
@@ -34,7 +34,7 @@ January 2024
 150 - Evaluate Reverse Polish Notation  
 739 - Daily Temperatures
 
-February 2024
+February 2024  
 2149 - Rearrange Array Elements by Sign  
 2971 - Find Polygon With the Largest Perimeter  
 1481 - Least Number of Unique Integers after K Removals  
