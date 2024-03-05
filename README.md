@@ -55,7 +55,8 @@ March 2024
 2864 - Maximum Odd Binary Number  
 977 - Squares of a Sorted Array  
 19 - Remove Nth Node From End of List  
-948 - Bag of Tokens
+948 - Bag of Tokens  
+1750 - Minimum Length of String After Deleting Similar Ends
 
 
 
