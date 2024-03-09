@@ -57,7 +57,8 @@ March 2024
 19 - Remove Nth Node From End of List  
 948 - Bag of Tokens  
 1750 - Minimum Length of String After Deleting Similar Ends  
-3005 - Count Elements With Maximum Frequency
+3005 - Count Elements With Maximum Frequency  
+2540 - Minimum Common Value
 
 
 
