@@ -60,6 +60,7 @@ March 2024
 3005 - Count Elements With Maximum Frequency  
 2540 - Minimum Common Value  
 791 - Custom Sort String
+2485 - Find the Pivot Integer
 
 
 
