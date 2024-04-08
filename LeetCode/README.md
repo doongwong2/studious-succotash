@@ -1,4 +1,4 @@
-# studious-succotash
+# studious-succotash LeetCode
 
 This is a collection of what I've done in LeetCode.
 
