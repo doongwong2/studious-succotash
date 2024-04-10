@@ -3,16 +3,13 @@
  */
 int cmpfunc(const void *a, const void *b)
 {
-    return (*(int*) a - *(int*) a);
+    return (*(int*) a - *(int*) b);
 }
 
 
-int* deckRevealedIncreasing(int* deck, int deckSize, int* returnSize) {
-    int *ans = (int*)malloc(sizeof(int)*1001);
+int* deckRevealedIncreasing(int* deck, int deckSize, int* ans) {
+    ans = (int*)malloc(sizeof(int)*deckSize);
     //ptr = (cast-type*)malloc(byte-size)
-
-    for(int x = 0;x < 1000 ; x++)
-        ans[x] = 0;
 
     qsort(deck,deckSize,sizeof(int),cmpfunc);
     //qsort(arr, number of elements, byte size, compare)
@@ -33,5 +30,8 @@ int* deckRevealedIncreasing(int* deck, int deckSize, int* returnSize) {
         } 
     }
 
-    return ans;
+    for(i = 0;i < deckSize;i++)
+        printf("%d\n",ans[i]);
+
+    return &ans;
 }
