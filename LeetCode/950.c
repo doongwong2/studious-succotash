@@ -6,32 +6,32 @@ int cmpfunc(const void *a, const void *b)
     return (*(int*) a - *(int*) b);
 }
 
-
-int* deckRevealedIncreasing(int* deck, int deckSize, int* ans) {
-    ans = (int*)malloc(sizeof(int)*deckSize);
-    //ptr = (cast-type*)malloc(byte-size)
-
+int* deckRevealedIncreasing(int* deck, int deckSize, int* returnSize) {
     qsort(deck,deckSize,sizeof(int),cmpfunc);
-    //qsort(arr, number of elements, byte size, compare)
-
-
-    int i =0; int j = 1;
-    for(i,j;i < deckSize && j < deckSize;)
-    {
-        if(i < j)
-        {
-            ans[i] = deck[i];
-            i += 2;
-        }
-        if( j < i)
-        {
-            ans[j] = deck[j];
-            j += 2;
-        } 
+    
+    int* cirArray = (int*)malloc(sizeof(int) * deckSize);
+    for (int i = 0; i < deckSize; i++) {
+        cirArray[i] = i;
     }
 
-    for(i = 0;i < deckSize;i++)
-        printf("%d\n",ans[i]);
-
-    return &ans;
+    int front = 0,rear = deckSize - 1;
+    
+    int* result = (int*)malloc(sizeof(int) * deckSize);
+    
+    for (int i = 0; i < deckSize; i++) {
+        result[cirArray[front]] = deck[i];
+        front = (front + 1) % deckSize;
+        if (front != rear) {
+            rear = (rear + 1) % deckSize;
+            cirArray[rear] = cirArray[front];
+            front = (front + 1) % deckSize;
+        }
+    }
+    
+    *returnSize = deckSize;
+    
+    free(cirArray);
+    
+    return result;
 }
+
