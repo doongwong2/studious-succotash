@@ -65,6 +65,7 @@ March 2024
 621 - Task Scheduler  
 1669 - Merge In Between Linked Lists
 206 - Reverse Linked List  
+402 - Remove K Digits  
   
 April 2024  
 1700 - Number of Students Unable to Eat Lunch  
