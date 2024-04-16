@@ -72,4 +72,5 @@ April 2024
 2073 - Time Needed to Buy Tickets  
 950 - Reveal Cards In Increasing Order  
 42 - Trapping Rain Water  
-129 - Sum Root to Leaf Numbers
+129 - Sum Root to Leaf Numbers  
+623 - Add One Row to Tree
