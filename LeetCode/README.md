@@ -8,7 +8,7 @@ January 2024
 2125 - Number of Laser Beams in a Bank  
 2870 - Minimum Number of Operations to Make Array Empty   
 300 - Longest Increasing Subsequence  
-1235 - Maximum Profit in Job Scheduling  
+[1235 - Maximum Profit in Job Scheduling](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1235.cpp)  
 938 - Range Sum of BST  
 872 - Leaf-Similar Trees  
 2385 - Amount of Time for Binary Tree to Be Infected  
