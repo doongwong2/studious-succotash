@@ -29,7 +29,7 @@ January 2024
 1143 - Longest Common Subsequence  
 576 - Out of Boundary Paths  
 629 - K Inverse Pairs Array  
-1074 - Number of Submatrices That Sum to Target  
+[1074 - Number of Submatrices That Sum to Target](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1074.cpp)  
 232 - Implement Queue using Stacks  
 150 - Evaluate Reverse Polish Notation  
 739 - Daily Temperatures
