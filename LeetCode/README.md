@@ -26,7 +26,7 @@ January 2024
 645 - Set Mismatch  
 1239 - Maximum Length of a Concatenated String with Unique Characters  
 1457 - Pseudo-Palindromic Paths in a Binary Tree  
-1143 - Longest Common Subsequence  
+[1143 - Longest Common Subsequence](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1143.cpp)  
 576 - Out of Boundary Paths  
 629 - K Inverse Pairs Array  
 [1074 - Number of Submatrices That Sum to Target](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1074.cpp)  
