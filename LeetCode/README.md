@@ -46,7 +46,7 @@ February 2024
 787 - Cheapest Flights Within K Stops  
 2092 - Find All People With Secret  
 2709 - Greatest Common Divisor Traversal  
-100 - Same Tree  
+[100 - Same Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/100.cpp)  
 543 - Diameter of Binary Tree  
 513 - Find Bottom Left Tree Value  
 1609 - Even Odd Tree    
