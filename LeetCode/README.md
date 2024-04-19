@@ -12,7 +12,7 @@ January 2024
 938 - Range Sum of BST  
 872 - Leaf-Similar Trees  
 2385 - Amount of Time for Binary Tree to Be Infected  
-1026 - Maximum Difference Between Node and Ancestor  
+[1026 - Maximum Difference Between Node and Ancestor](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1026.cpp)  
 1704 - Determine if String Halves Are Alike  
 1347 - Minimum Number of Steps to Make Two Strings Anagram  
 1657 - Determine if Two Strings Are Close  
