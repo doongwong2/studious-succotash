@@ -76,5 +76,5 @@ April 2024
 623 - Add One Row to Tree  
 988 - Smallest String Starting From Leaf
 463 - Island Perimeter  
-200 - Number of Islands
-https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1544.cpp
+200 - Number of Islands  
+[1544. Make The String Great](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1544.cpp)
