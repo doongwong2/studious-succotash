@@ -25,7 +25,7 @@ January 2024
 198 - House Robber  
 645 - Set Mismatch  
 [1239 - Maximum Length of a Concatenated String with Unique Characters](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1239.cpp)  
-1457 - Pseudo-Palindromic Paths in a Binary Tree  
+[1457 - Pseudo-Palindromic Paths in a Binary Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1457.cpp)  
 [1143 - Longest Common Subsequence](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1143.cpp)  
 576 - Out of Boundary Paths  
 629 - K Inverse Pairs Array  
