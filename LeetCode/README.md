@@ -56,7 +56,7 @@ March 2024
 977 - Squares of a Sorted Array  
 19 - Remove Nth Node From End of List  
 948 - Bag of Tokens  
-1750 - Minimum Length of String After Deleting Similar Ends  
+[1750 - Minimum Length of String After Deleting Similar Ends](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1750.c)  
 3005 - Count Elements With Maximum Frequency  
 2540 - Minimum Common Value  
 791 - Custom Sort String
