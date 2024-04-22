@@ -63,7 +63,7 @@ March 2024
 2485 - Find the Pivot Integer  
 452 - Minimum Number of Arrows to Burst Balloons  
 621 - Task Scheduler  
-1669 - Merge In Between Linked Lists
+[1669 - Merge In Between Linked Lists](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1669.cpp)
 206 - Reverse Linked List  
 402 - Remove K Digits  
   
