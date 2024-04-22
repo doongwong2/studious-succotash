@@ -80,4 +80,5 @@ April 2024
 [1544 - Make The String Great](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1544.cpp)  
 [1 - Two Sum(C)](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1.c)  
 [1 - Two Sum(C++)](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1.cpp)  
-[1971. Find if Path Exists in Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1971.cpp)
+[1971 - Find if Path Exists in Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1971.cpp)  
+[752 - Open the Lock](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/752.c)
