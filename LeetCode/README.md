@@ -13,7 +13,7 @@ January 2024
 872 - Leaf-Similar Trees  
 2385 - Amount of Time for Binary Tree to Be Infected  
 [1026 - Maximum Difference Between Node and Ancestor](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1026.cpp)  
-1704 - Determine if String Halves Are Alike  
+[1704 - Determine if String Halves Are Alike](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1704.cpp)  
 [1347 - Minimum Number of Steps to Make Two Strings Anagram](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1347.cpp)  
 [1657 - Determine if Two Strings Are Close](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1657.cpp)  
 2225 - Find Players With Zero or One Losses  
