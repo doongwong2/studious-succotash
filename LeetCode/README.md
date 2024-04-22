@@ -68,7 +68,7 @@ March 2024
 402 - Remove K Digits  
   
 April 2024  
-1700 - Number of Students Unable to Eat Lunch  
+[1700 - Number of Students Unable to Eat Lunch](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1700.c)  
 2073 - Time Needed to Buy Tickets  
 950 - Reveal Cards In Increasing Order  
 42 - Trapping Rain Water  
