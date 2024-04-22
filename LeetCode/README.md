@@ -54,7 +54,7 @@ February 2024
 March 2024  
 2864 - Maximum Odd Binary Number  
 977 - Squares of a Sorted Array  
-19 - Remove Nth Node From End of List  
+[19 - Remove Nth Node From End of List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/19.cpp)  
 948 - Bag of Tokens  
 [1750 - Minimum Length of String After Deleting Similar Ends](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1750.c)  
 3005 - Count Elements With Maximum Frequency  
