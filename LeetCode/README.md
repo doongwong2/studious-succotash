@@ -3,7 +3,7 @@
 This is a collection of what I've done in LeetCode.
 
 January 2024  
-1897 - Redistribute Characters to Make All Strings Equal  
+[1897 - Redistribute Characters to Make All Strings Equal](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1897.cpp)  
 2610 - Convert an Array Into a 2D Array With Conditions  
 2125 - Number of Laser Beams in a Bank  
 2870 - Minimum Number of Operations to Make Array Empty   
