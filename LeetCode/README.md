@@ -82,4 +82,5 @@ April 2024
 [1 - Two Sum(C++)](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1.cpp)  
 [1971 - Find if Path Exists in Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1971.cpp)  
 [752 - Open the Lock](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/752.c)
-[2370. Longest Ideal Subsequence](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2370.c)
+[2370 - Longest Ideal Subsequence](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2370.c)
+[1289 - Minimum Falling Path Sum II](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1289.c)
