@@ -86,4 +86,5 @@ April 2024
 [2370 - Longest Ideal Subsequence](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2370.c)
 [1289 - Minimum Falling Path Sum II](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1289.c)  
 [514 - Freedom Trail](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/514.c)  
-[1137 - N-th Tribonacci Number](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1137.c)
+[1137 - N-th Tribonacci Number](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1137.c)  
+[834. Sum of Distances in Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/834.cpp)
