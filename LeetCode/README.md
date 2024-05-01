@@ -2,7 +2,7 @@
 
 This is a collection of what I've done in LeetCode.
 
-January 2024  
+January 2024 - 30   
 [1897 - Redistribute Characters to Make All Strings Equal](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1897.cpp)  
 2610 - Convert an Array Into a 2D Array With Conditions  
 2125 - Number of Laser Beams in a Bank  
@@ -34,7 +34,7 @@ January 2024
 [150 - Evaluate Reverse Polish Notation](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/150.cpp)  
 739 - Daily Temperatures
 
-February 2024  
+February 2024 - 15    
 2149 - Rearrange Array Elements by Sign  
 2971 - Find Polygon With the Largest Perimeter  
 [1481 - Least Number of Unique Integers after K Removals](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1481.cpp)  
@@ -51,7 +51,7 @@ February 2024
 513 - Find Bottom Left Tree Value  
 [1609 - Even Odd Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1609.cpp)    
 
-March 2024  
+March 2024 - 14   
 2864 - Maximum Odd Binary Number  
 977 - Squares of a Sorted Array  
 [19 - Remove Nth Node From End of List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/19.cpp)  
@@ -67,7 +67,7 @@ March 2024
 206 - Reverse Linked List  
 402 - Remove K Digits  
   
-April 2024  
+April 2024 - 22   
 [1700 - Number of Students Unable to Eat Lunch](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1700.c)  
 2073 - Time Needed to Buy Tickets  
 950 - Reveal Cards In Increasing Order  
