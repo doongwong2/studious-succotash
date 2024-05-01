@@ -93,4 +93,5 @@ April 2024
 [1915 - Number of Wonderful Substrings](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1915.c)  
 
 May 2024  
-[2000 - Reverse Prefix of Word](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2000.go)
+[2000 - Reverse Prefix of Word](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2000.go)  
+[404 - Sum of Left Leaves](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/404.go)
