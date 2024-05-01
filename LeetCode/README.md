@@ -94,4 +94,5 @@ April 2024
 
 May 2024  
 [2000 - Reverse Prefix of Word](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2000.go)  
-[404 - Sum of Left Leaves](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/404.go)
+[404 - Sum of Left Leaves](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/404.go)  
+[9 - Palindrome Number](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/9.go)
