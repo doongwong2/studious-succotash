@@ -90,4 +90,7 @@ April 2024
 [834 - Sum of Distances in Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/834.cpp)  
 [2997 - Minimum Number of Operations to Make Array XOR Equal to K](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2997.c)  
 [310 - Minimum Height Trees](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/310.c)  
-[1915 - Number of Wonderful Substrings](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1915.c)
+[1915 - Number of Wonderful Substrings](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1915.c)  
+
+May 2024  
+[2000 - Reverse Prefix of Word](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2000.go)
