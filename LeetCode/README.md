@@ -11,7 +11,7 @@ January 2024 - 30
 [1235 - Maximum Profit in Job Scheduling](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1235.cpp)  
 [938 - Range Sum of BST](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/938.cpp)    
 [872 - Leaf-Similar Trees](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/872.cpp)    
-2385 - Amount of Time for Binary Tree to Be Infected  
+[2385 - Amount of Time for Binary Tree to Be Infected](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2385.cpp)    
 [1026 - Maximum Difference Between Node and Ancestor](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1026.cpp)  
 [1704 - Determine if String Halves Are Alike](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1704.cpp)  
 [1347 - Minimum Number of Steps to Make Two Strings Anagram](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1347.cpp)  
