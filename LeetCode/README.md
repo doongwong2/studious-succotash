@@ -6,7 +6,7 @@ January 2024 - 30
 [1897 - Redistribute Characters to Make All Strings Equal](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1897.cpp)  
 [2610 - Convert an Array Into a 2D Array With Conditions](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2610.cpp)    
 [2125 - Number of Laser Beams in a Bank](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2125.cpp)    
-2870 - Minimum Number of Operations to Make Array Empty   
+[2870 - Minimum Number of Operations to Make Array Empty](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2870.cpp)     
 300 - Longest Increasing Subsequence  
 [1235 - Maximum Profit in Job Scheduling](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1235.cpp)  
 938 - Range Sum of BST  
