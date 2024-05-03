@@ -97,4 +97,5 @@ May 2024
 [404 - Sum of Left Leaves](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/404.go)  
 [9 - Palindrome Number](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/9.go)  
 [2441 - Largest Positive Integer That Exists With Its Negative](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2441.go)  
-[165 - Compare Version Numbers](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/165.go)
+[165 - Compare Version Numbers](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/165.go)  
+[876 - Middle of the Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/876.cpp)
