@@ -22,7 +22,7 @@ January 2024 - 30
 [70 - Climbing Stairs](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/70.cpp)   
 [931 - Minimum Falling Path Sum](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/931.cpp)  
 [907 - Sum of Subarray Minimums](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/907.cpp)    
-198 - House Robber  
+[198 - House Robber](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/198.cpp)    
 645 - Set Mismatch  
 [1239 - Maximum Length of a Concatenated String with Unique Characters](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1239.cpp)  
 [1457 - Pseudo-Palindromic Paths in a Binary Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1457.cpp)  
