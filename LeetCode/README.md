@@ -19,8 +19,8 @@ January 2024 - 30
 [2225 - Find Players With Zero or One Losses](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2225.cpp)  
 [380 - Insert Delete GetRandom O(1)](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/380.cpp)    
 [1207 - Unique Number of Occurrences](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1207.cpp)  
-[70 - Climbing Stairs](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/70.cpp) 
-931 - Minimum Falling Path Sum  
+[70 - Climbing Stairs](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/70.cpp)   
+[931 - Minimum Falling Path Sum](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/931.cpp)  
 907 - Sum of Subarray Minimums  
 198 - House Robber  
 645 - Set Mismatch  
