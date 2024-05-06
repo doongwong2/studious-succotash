@@ -32,7 +32,7 @@ January 2024 - 30
 [1074 - Number of Submatrices That Sum to Target](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1074.cpp)  
 [232 - Implement Queue using Stacks](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/232.cpp)  
 [150 - Evaluate Reverse Polish Notation](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/150.cpp)  
-739 - Daily Temperatures
+[739 - Daily Temperatures](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/739.cpp)
 
 February 2024 - 15    
 2149 - Rearrange Array Elements by Sign  
