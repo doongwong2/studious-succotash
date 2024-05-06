@@ -100,4 +100,5 @@ May 2024
 [165 - Compare Version Numbers](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/165.go)  
 [876 - Middle of the Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/876.cpp)  
 [881 - Boats to Save People](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/881.go)  
-[237 - Delete Node in a Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/237.go)
+[237 - Delete Node in a Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/237.go)  
+[2487 - Remove Nodes From Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2487.go)
