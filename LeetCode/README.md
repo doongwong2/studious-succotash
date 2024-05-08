@@ -102,4 +102,5 @@ May 2024
 [881 - Boats to Save People](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/881.go)  
 [237 - Delete Node in a Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/237.go)  
 [2487 - Remove Nodes From Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2487.go)  
-[2816 - Double a Number Represented as a Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2816.go)
+[2816 - Double a Number Represented as a Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2816.go)  
+[506 - Relative Ranks](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/506.go)  
