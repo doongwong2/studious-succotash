@@ -104,3 +104,4 @@ May 2024
 [2487 - Remove Nodes From Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2487.go)  
 [2816 - Double a Number Represented as a Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2816.go)  
 [506 - Relative Ranks](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/506.go)  
+[3075 - Maximize Happiness of Selected Children](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/3075.go)  
