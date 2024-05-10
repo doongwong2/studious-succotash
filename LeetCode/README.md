@@ -105,3 +105,4 @@ May 2024
 [2816 - Double a Number Represented as a Linked List](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2816.go)  
 [506 - Relative Ranks](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/506.go)  
 [3075 - Maximize Happiness of Selected Children](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/3075.go)  
+[786 - K-th Smallest Prime Fraction](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/786.go)
