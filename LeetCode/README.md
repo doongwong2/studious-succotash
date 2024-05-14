@@ -108,4 +108,5 @@ May 2024
 [786 - K-th Smallest Prime Fraction](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/786.go)  
 [857 - Minimum Cost to Hire K Workers](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/857.cpp)  
 [2373 - Largest Local Values in a Matrix](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2373.go)  
-[861 - Score After Flipping Matrix](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/861.go)
+[861 - Score After Flipping Matrix](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/861.go)  
+[1219 - Path with Maximum Gold](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1219.go)
