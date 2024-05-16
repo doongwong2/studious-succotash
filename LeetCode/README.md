@@ -111,4 +111,5 @@ May 2024
 [861 - Score After Flipping Matrix](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/861.go)  
 [1219 - Path with Maximum Gold](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1219.go)  
 [2812 - Find the Safest Path in a Grid](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2812.go)  
-[2331 - Evaluate Boolean Binary Tree - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2331.go)
+[2331 - Evaluate Boolean Binary Tree - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2331.go)  
+[2331 - Evaluate Boolean Binary Tree - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2331.c)
