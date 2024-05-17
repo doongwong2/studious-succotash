@@ -113,4 +113,5 @@ May 2024
 [2812 - Find the Safest Path in a Grid](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2812.go)  
 [2331 - Evaluate Boolean Binary Tree - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2331.go)  
 [2331 - Evaluate Boolean Binary Tree - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2331.c)  
-[1325 - Delete Leaves With a Given Value - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1325.go)
+[1325 - Delete Leaves With a Given Value - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1325.go)  
+[1325 - Delete Leaves With a Given Value - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1325.c)  
