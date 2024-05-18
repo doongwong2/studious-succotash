@@ -115,3 +115,4 @@ May 2024
 [2331 - Evaluate Boolean Binary Tree - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2331.c)  
 [1325 - Delete Leaves With a Given Value - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1325.go)  
 [1325 - Delete Leaves With a Given Value - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1325.c)  
+[979 - Distribute Coins in Binary Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/979.go)
