@@ -119,4 +119,5 @@ May 2024
 [3068 - Find the Maximum Sum of Node Values - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/3068.c)  
 [3068 - Find the Maximum Sum of Node Values - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/3068.go)  
 [1863 - Sum of All Subset XOR Totals - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1863.c)  
-[1863 - Sum of All Subset XOR Totals - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1863.go)
+[1863 - Sum of All Subset XOR Totals - goLang](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1863.go)  
+[78 - Subsets](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/78.c)  
