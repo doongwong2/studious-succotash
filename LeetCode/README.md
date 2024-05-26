@@ -125,3 +125,4 @@ May 2024
 [2597 - The Number of Beautiful Subsets](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2597.go)  
 [1255 - Maximum Score Words Formed by Letters](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1255.c)  
 [140 - Word Break II](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/140.cpp)  
+[552 - Student Attendance Record II](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/552.c)  
