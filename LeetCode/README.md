@@ -126,3 +126,4 @@ May 2024
 [1255 - Maximum Score Words Formed by Letters](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1255.c)  
 [140 - Word Break II](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/140.cpp)  
 [552 - Student Attendance Record II](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/552.c)  
+[1608 - Special Array With X Elements Greater Than or Equal X](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1608.go)
