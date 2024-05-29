@@ -128,3 +128,4 @@ May 2024
 [552 - Student Attendance Record II](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/552.c)  
 [1608 - Special Array With X Elements Greater Than or Equal X](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1608.go)  
 [1208 - Get Equal Substrings Within Budget](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1208.c)  
+[1404 - Number of Steps to Reduce a Number in Binary Representation to One](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1404.c)  
