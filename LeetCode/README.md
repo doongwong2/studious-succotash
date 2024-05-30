@@ -129,3 +129,4 @@ May 2024
 [1608 - Special Array With X Elements Greater Than or Equal X](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1608.go)  
 [1208 - Get Equal Substrings Within Budget](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1208.c)  
 [1404 - Number of Steps to Reduce a Number in Binary Representation to One](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1404.c)  
+[1442 - Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1442.c)  
