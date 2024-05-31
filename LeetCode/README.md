@@ -92,7 +92,7 @@ April 2024 - 22
 [310 - Minimum Height Trees](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/310.c)  
 [1915 - Number of Wonderful Substrings](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1915.c)  
 
-May 2024  
+May 2024 - 34  
 [2000 - Reverse Prefix of Word](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2000.go)  
 [404 - Sum of Left Leaves](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/404.go)  
 [9 - Palindrome Number](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/9.go)  
@@ -130,3 +130,4 @@ May 2024
 [1208 - Get Equal Substrings Within Budget](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1208.c)  
 [1404 - Number of Steps to Reduce a Number in Binary Representation to One](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1404.c)  
 [1442 - Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1442.c)  
+[260 - Single Number III](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/260.go)  
