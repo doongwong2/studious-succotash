@@ -135,4 +135,4 @@ May 2024 - 34
 [678. Valid Parenthesis String](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/678.c)  
 
 June 2024  
-[3110 - Score of a String]()
+[3110 - Score of a String](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/3110.c)  
