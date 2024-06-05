@@ -139,3 +139,4 @@ June 2024
 [344 - Reverse String](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/344.c)  
 [2486 - Append Characters to String to Make Subsequence](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2486.py)  
 [409 - Longest Palindrome](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/409.py)  
+[1002 - Find Common Characters](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1002.py)  
