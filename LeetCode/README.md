@@ -141,3 +141,4 @@ June 2024
 [409 - Longest Palindrome](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/409.py)  
 [1002 - Find Common Characters](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1002.py)  
 [846 - Hand of Straights](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/846.py)  
+[974 - Subarray Sums Divisible by K](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/974.py)  
