@@ -144,3 +144,4 @@ June 2024
 [974 - Subarray Sums Divisible by K](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/974.py)  
 [523 - Continuous Subarray Sum](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/523.py)  
 [648 - Replace Words](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/648.py)  
+[1051 - Height Checker](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1051.py)  
