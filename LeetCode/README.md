@@ -146,3 +146,4 @@ June 2024
 [648 - Replace Words](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/648.py)  
 [1051 - Height Checker](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1051.py)  
 [1122 - Relative Sort Array](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1122.py)  
+[75 - Sort Colors - Python3](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/75.py)  
