@@ -147,3 +147,4 @@ June 2024
 [1051 - Height Checker](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1051.py)  
 [1122 - Relative Sort Array](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1122.py)  
 [75 - Sort Colors - Python3](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/75.py)  
+[75 - Sort Colors - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/75.c)  
