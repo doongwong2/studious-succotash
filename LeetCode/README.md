@@ -148,3 +148,5 @@ June 2024
 [1122 - Relative Sort Array](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1122.py)  
 [75 - Sort Colors - Python3](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/75.py)  
 [75 - Sort Colors - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/75.c)  
+[2037 - Minimum Number of Moves to Seat Everyone - Python3](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2037.py)  
+[2037 - Minimum Number of Moves to Seat Everyone - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2037.c)  
