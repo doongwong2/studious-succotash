@@ -150,3 +150,4 @@ June 2024
 [75 - Sort Colors - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/75.c)  
 [2037 - Minimum Number of Moves to Seat Everyone - Python3](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2037.py)  
 [2037 - Minimum Number of Moves to Seat Everyone - C](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2037.c)  
+[945 - Minimum Increment to Make Array Unique](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/945.py)  
