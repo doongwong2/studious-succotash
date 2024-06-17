@@ -153,3 +153,4 @@ June 2024
 [945 - Minimum Increment to Make Array Unique](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/945.py)  
 [502 - IPO](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/502.py)  
 [330 - Patching Array](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/330.py)  
+[633 - Sum of Square Numbers](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/633.py)  
