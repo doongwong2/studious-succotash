@@ -154,3 +154,4 @@ June 2024
 [502 - IPO](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/502.py)  
 [330 - Patching Array](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/330.py)  
 [633 - Sum of Square Numbers](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/633.py)  
+[826 - Most Profit Assigning Work](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/826.py)  
