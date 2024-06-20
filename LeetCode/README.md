@@ -156,3 +156,4 @@ June 2024
 [633 - Sum of Square Numbers](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/633.py)  
 [826 - Most Profit Assigning Work](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/826.py)  
 [1482 - Minimum Number of Days to Make m Bouquets](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1482.py)  
+[1552 - Magnetic Force Between Two Balls](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1552.py)  
