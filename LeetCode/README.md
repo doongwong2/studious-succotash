@@ -158,3 +158,4 @@ June 2024
 [1482 - Minimum Number of Days to Make m Bouquets](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1482.py)  
 [1552 - Magnetic Force Between Two Balls](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1552.py)  
 [1052 - Grumpy Bookstore Owner](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1052.py)  
+[1248 - Count Number of Nice Subarrays](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1248.py)  
