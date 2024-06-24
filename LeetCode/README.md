@@ -160,3 +160,4 @@ June 2024
 [1052 - Grumpy Bookstore Owner](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1052.py)  
 [1248 - Count Number of Nice Subarrays](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1248.py)  
 [1438 - Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1438.py)  
+[995 - Minimum Number of K Consecutive Bit Flips](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/995.py)  
