@@ -163,4 +163,5 @@ June 2024
 [995 - Minimum Number of K Consecutive Bit Flips](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/995.py)  
 [1038 - Binary Search Tree to Greater Sum Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1038.py)  
 [2285 - Maximum Total Importance of Roads](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2285.py)  
+[1791 - Find Center of Star Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1791.py)  
 
