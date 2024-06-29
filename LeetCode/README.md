@@ -164,4 +164,5 @@ June 2024
 [1038 - Binary Search Tree to Greater Sum Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1038.py)  
 [2285 - Maximum Total Importance of Roads](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2285.py)  
 [1791 - Find Center of Star Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1791.py)  
+[2192 - All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2192.py)  
 
