@@ -166,4 +166,7 @@ June 2024
 [1791 - Find Center of Star Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1791.py)  
 [2192 - All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2192.py)  
 [1579 - Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1579.py)  
+  
+July 2024  
+[1550 - Three Consecutive Odds](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1550.py)  
 
