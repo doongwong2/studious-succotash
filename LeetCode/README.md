@@ -134,7 +134,7 @@ May 2024 - 34
 [85 - Maximal Rectangle](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/85.go)  
 [678. Valid Parenthesis String](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/678.c)  
 
-June 2024  
+June 2024 - 30  
 [3110 - Score of a String](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/3110.c)  
 [344 - Reverse String](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/344.c)  
 [2486 - Append Characters to String to Make Subsequence](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2486.py)  
