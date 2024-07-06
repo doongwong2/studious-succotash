@@ -170,4 +170,5 @@ June 2024 - 30
 July 2024  
 [1550 - Three Consecutive Odds](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1550.py)  
 [1382 - Balance a Binary Search Tree](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1382.py)  
+[2582 - Pass the Pillow](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2582.py)  
 
