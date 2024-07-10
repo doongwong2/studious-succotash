@@ -173,4 +173,5 @@ July 2024
 [2582 - Pass the Pillow](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/2582.py)  
 [1518 - Water Bottles](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1518.py)  
 [1823 - Find the Winner of the Circular Game](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1823.py)  
+[1598 - Crawler Log Folder](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1598.py)  
 
