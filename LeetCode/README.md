@@ -174,4 +174,5 @@ July 2024
 [1518 - Water Bottles](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1518.py)  
 [1823 - Find the Winner of the Circular Game](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1823.py)  
 [1598 - Crawler Log Folder](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1598.py)  
+[1190 - Reverse Substrings Between Each Pair of Parentheses](https://github.com/doongwong2/studious-succotash/blob/main/LeetCode/1190.py)  
 
